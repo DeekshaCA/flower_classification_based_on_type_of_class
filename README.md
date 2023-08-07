@@ -1,0 +1,3 @@
+# flower_classification_based_on_type_of_class
+Machine learning project using logistic regression algorithm
+
